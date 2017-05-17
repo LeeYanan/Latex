@@ -185,7 +185,7 @@
 		\end{minipage}
 		}
 		\caption{G1 after first step of algorithm.}
-	\end{figure}
+\end{figure}
 ```
 
 
